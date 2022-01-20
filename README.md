@@ -1,2 +1,2 @@
 # day1
-basic hello world
+my first project.
